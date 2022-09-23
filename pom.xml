@@ -98,7 +98,7 @@
             <plugin>
                 <groupId>org.asciidoctor</groupId>
                 <artifactId>asciidoctor-maven-plugin</artifactId>
-                <version>1.5.4</version>
+                <version>1.6.0</version>
                 <executions>
                     <execution>
                         <id>generate-docs</id>
